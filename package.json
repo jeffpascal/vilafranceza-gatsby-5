@@ -17,6 +17,7 @@
   "dependencies": {
     "@mdx-js/react": "^2.2.1",
     "@pasdo501/gatsby-source-woocommerce": "^0.17.2",
+    "@wordpress/block-library": "^8.3.0",
     "gatsby": "^5.5.0",
     "gatsby-plugin-google-gtag": "^5.5.0",
     "gatsby-plugin-image": "^3.5.0",
@@ -28,6 +29,7 @@
     "gatsby-source-filesystem": "^5.5.0",
     "gatsby-source-wordpress": "^7.5.0",
     "gatsby-transformer-sharp": "^5.5.0",
+    "html-react-parser": "^3.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.58.0"
